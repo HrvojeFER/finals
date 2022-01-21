@@ -2,6 +2,8 @@
 
 List of candidate institutes and mentors for finals.
 
+https://www.fer.unizg.hr/bojan.franc
+
 ## Institutes
 
 ### Candidates
